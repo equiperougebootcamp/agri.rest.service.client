@@ -1,0 +1,6 @@
+.idea
+target
+rest.service.client.iml
+lib
+/src/test/resources/local/
+/src/main/resources/local/

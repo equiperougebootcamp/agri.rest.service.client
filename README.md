@@ -1,1 +1,0 @@
-# agri.rest.service.client
